@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Screen\Client\bin\Debug\Client.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Screen\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\Screen\Client\obj\x86\Debug\Client.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\Screen\Client\bin\Debug\Client.exe.config

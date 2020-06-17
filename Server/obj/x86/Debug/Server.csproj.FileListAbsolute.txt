@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Screen\Server\bin\Debug\Server.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Screen\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\Screen\Server\obj\x86\Debug\Server.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Screen\Server\obj\x86\Debug\Server.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Screen\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\Screen\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\Screen\Server\obj\x86\Debug\Server.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Screen\Server\bin\Debug\Server.exe.config
+c:\users\administrator\documents\visual studio 2010\Projects\Screen\Server\bin\Debug\Server.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Screen\Server\obj\x86\Debug\Server.pdb

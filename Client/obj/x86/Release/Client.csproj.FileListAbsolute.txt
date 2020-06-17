@@ -1,0 +1,6 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\Screen\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\documents\visual studio 2010\Projects\Screen\Client\bin\Release\Client.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\Screen\Client\bin\Release\Client.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\Screen\Client\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\Screen\Client\obj\x86\Release\Client.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\Screen\Client\obj\x86\Release\Client.pdb
