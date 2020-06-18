@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2010\Projects\JGP1\JGP1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\JGP1\JGP1\bin\Debug\BMPturnJGP.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\JGP1\JGP1\bin\Debug\BMPturnJGP.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\JGP1\JGP1\obj\x86\Debug\BMPturnJGP.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\JGP1\JGP1\obj\x86\Debug\BMPturnJGP.pdb
